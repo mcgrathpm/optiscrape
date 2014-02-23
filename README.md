@@ -1,7 +1,8 @@
-optiscrape
+Optiscrape
 ==========
 
-Scrape Optimizely JSON object from deployed site
+Scrape Optimizely JSON object from deployed site.
+--------
 
 Optimizely is a next generation client-side AB testing platform, utilized by large web presences like Starbucks.com, Rocketlawyer.com, and 37 signals.
 
